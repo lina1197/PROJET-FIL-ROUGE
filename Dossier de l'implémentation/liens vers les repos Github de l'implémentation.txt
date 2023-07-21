@@ -1,0 +1,2 @@
+lien github du front-end de l'application:https://github.com/lina1197/filRouge_sitterConnect_frontEnd.git
+lien github du back-end de l'application:https://github.com/lina1197/filRouge_sitterConnect
